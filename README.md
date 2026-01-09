@@ -49,7 +49,8 @@ Azure Portal → Microsoft Entra ID → Conditional Access → Policies
 Confirmed Conditional Access features were available and reviewed Microsoft-managed security policies.
 
 📸 Screenshot: Conditional Access policies overview  
-![Conditional Access Overview](screenshots/01-conditional-access-overview.png)
+
+![maxresdefault](https://github.com/user-attachments/assets/3d2d938c-aa61-4cb3-a56d-2917484fba76)
 
 ---
 
