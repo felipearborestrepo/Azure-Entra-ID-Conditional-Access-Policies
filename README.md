@@ -1,5 +1,7 @@
 # 🔐 Microsoft Entra ID Conditional Access Policy Creation
 
+![Uploading ChatGPT Image Jan 9, 2026, 04_36_18 PM.png…]()
+
 ## 📘 Overview
 
 This project documents a hands-on **Identity & Access Management (IAM)** security lab built in **Microsoft Entra ID (Azure Active Directory)**.  
