@@ -1,6 +1,6 @@
 # 🔐 Microsoft Entra ID Conditional Access Policy Creation
 
-![Uploading ChatGPT Image Jan 9, 2026, 04_36_18 PM.png…]()
+<img width="1536" height="1024" alt="ChatGPT Image Jan 9, 2026, 04_36_18 PM" src="https://github.com/user-attachments/assets/92f7b055-f7e2-4544-9476-a35f5a0ae3b7" />
 
 ## 📘 Overview
 
